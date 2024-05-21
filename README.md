@@ -10,10 +10,10 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
 
 **Tech Stack**
 
-- JavaScript | React.js | Vue.js | Next.js| TypeScript 
-- CSS |Bootstrap| Tailwind| 
+- JavaScript | React.js | Vue.js | Next.js| TypeScript |
+- CSS | Bootstrap | Tailwind | 
 - RESTful APIs  
-- Git | Github|
+- Git | Github |
 
   
 
@@ -23,7 +23,7 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
   
  - [Calorie Meal Planner](https://calorie-meal-planner.netlify.app/) It helps to plan meals based on the calories needed.
   
- - [Restaurant Manager ](https://calorie-meal-planner.netlify.app/) It helps to plan meals based on the calories needed.
+ - [Expensesly](https://bhankymyk-expensely.mdbgo.io/) An expense tracker, it helps users to manage their daily expenses.
 
 **Connect with me**
 
