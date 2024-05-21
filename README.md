@@ -2,6 +2,8 @@
 
 
 I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and TypeScript.
+
+
 **About Me**
 
 <!--
@@ -14,10 +16,9 @@ Here are some ideas to get you started:
 - 💬 Feel free to reach me if you have questions or want to collaborate on projects.
 -->
 **Tech Stack**
-<!--
+
 - JavaScript |React.js| Vue.js |Next.js| TypeScript 
 - CSS |Bootstrap| Tailwind| 
 - RESTful APIs  
 - Git | Github| 
--->
  
