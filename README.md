@@ -17,7 +17,7 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
 
   
 
-  **Projects**
+**Projects**
   
   Here are some of the projects I have worked on:
   
@@ -25,7 +25,7 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
   
  - [Restaurant Manager ](https://calorie-meal-planner.netlify.app/) It helps to plan meals based on the calories needed.
 
-  **Connect with me**
+**Connect with me**
 
   - You can reach me via email at bankole123michael@gmail.com
   - Check my professional profile on [Linkedin](https://www.linkedin.com/in/bankole-michael/)
@@ -33,7 +33,7 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
 
     
  
-    Thanks for visiting my GitHub profile
+Thanks for visiting my GitHub profile
 
 
 
