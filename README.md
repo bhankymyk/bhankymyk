@@ -1,6 +1,6 @@
 ## Hello, I'm Michael Bankole 👋
 
-I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and TypeScript.
+I'm a Frontend Developer with expertise in React Native, React.js, Vue.js, Next.js, and TypeScript.
 
 **About Me**
 
@@ -10,9 +10,9 @@ I'm a JavaScript Developer with expertise in React.js, Vue.js, Next.js, and Type
 
 **Tech Stack**
 
-- JavaScript | React.js | Vue.js | Next.js| TypeScript |
+- React Native | React.js | Vue.js | Next.js| TypeScript |
 - CSS | Bootstrap | Tailwind | 
-- RESTful APIs  
+- RESTful APIs  | Websocket
 - Git | Github |
 
   
