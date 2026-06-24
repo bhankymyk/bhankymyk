@@ -4,7 +4,7 @@ I'm a Frontend Developer(Web and App) with expertise in React Native, React.js, 
 
 **About Me**
 
-- 🔭 I’m currently working on an exciting project in the world of web development.
+- 🔭 I’m currently working on an exciting project in the world of web and mobile app development.
 - 🌱 I’m continuously learning and improving my skills to stay up to date with the latest technologies.
 - 💬 Feel free to reach me if you have questions or want to collaborate on projects.
 
