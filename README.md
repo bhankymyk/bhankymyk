@@ -10,20 +10,12 @@ I'm a Frontend Developer(Web and App) with expertise in React Native, React.js, 
 
 **Tech Stack**
 
-- React Native | React.js | Vue.js | Next.js| TypeScript |
+- React Native | Swift (IOS) | React.js | Vue.js | Next.js| TypeScript |
 - CSS | Bootstrap | Tailwind | 
 - RESTful APIs  | Websocket
 - Git | Github |
 
   
-
-**Projects**
-  
-  Here are some of the projects I have worked on:
-  
- - [Calorie Meal Planner](https://calorie-meal-planner.netlify.app/) It helps to plan meals based on the calories needed.
-  
- - [Expensesly](https://bhankymyk-expensely.mdbgo.io/) An expense tracker, it helps users to manage their daily expenses.
 
 **Connect with me**
 
